@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"yunyan_WALK","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"YYTX","traits":[{"code":51,"dataId":9,"value":1}],"initialLevel":1,"maxLevel":99,"name":"云烟","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"TQL","characterIndex":0,"characterName":"TQL","classId":4,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"QUNYOU","traits":[],"initialLevel":1,"maxLevel":99,"name":"格里高利神父","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"ME","characterIndex":0,"characterName":"ME","classId":5,"equips":[6,0,0,5,6],"faceIndex":1,"faceName":"QUNYOU","traits":[],"initialLevel":1,"maxLevel":99,"name":"宝生永梦","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"nnz","characterIndex":0,"characterName":"nnz","classId":3,"equips":[8,0,0,0,0],"faceIndex":0,"faceName":"qunyou2","traits":[{"code":51,"dataId":9,"value":1}],"initialLevel":1,"maxLevel":99,"name":"奈奈子","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
