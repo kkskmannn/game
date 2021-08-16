@@ -1,7 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"yunyan_WALK","classId":3,"equips":[1,1,2,1,0],"faceIndex":0,"faceName":"YYTX","traits":[],"initialLevel":1,"maxLevel":99,"name":"云烟","nickname":"云烟酱","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"yunyan_WALK","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"YYTX","traits":[{"code":21,"dataId":2,"value":0.8},{"code":21,"dataId":4,"value":1.1},{"code":14,"dataId":8,"value":1},{"code":43,"dataId":11,"value":1},{"code":43,"dataId":12,"value":1},{"code":43,"dataId":14,"value":1}],"initialLevel":99,"maxLevel":99,"name":"云烟","nickname":"得到未知记忆的巫女","note":"","profile":"神社中的巫女，在一次机缘巧合下获得了未知的记忆，从而\n踏上了解开记忆之谜的道路。"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"yunyou","classId":3,"equips":[4,0,0,4,0],"faceIndex":4,"faceName":"YYTX","traits":[{"code":22,"dataId":2,"value":0.1},{"code":21,"dataId":2,"value":1.1},{"code":14,"dataId":4,"value":1},{"code":41,"dataId":2,"value":1},{"code":43,"dataId":15,"value":1},{"code":43,"dataId":16,"value":1},{"code":43,"dataId":13,"value":1}],"initialLevel":99,"maxLevel":99,"name":"苏染云游","nickname":"竹林中的自然之灵","note":"","profile":"受云烟的\"召唤\"(用吃的收买)来保护云烟的自然之灵，身手敏捷\n，对毒有先天的抗性。"}
 ]
