@@ -1,5 +1,5 @@
 *   [返回index](https://arcxingye.github.io/)
-*   [怪浪怪浪的链接](https://bonepa.com/a12273ded2/9587b80ad9/?placementName=default)
+*   [怪浪怪浪的链接](https://qoaaa.com/1e8f961e43/c2bb69d00f/?placementName=default)
 * 存档问题：
 1. 通常RPG作可自由操作时两指齐按(右键)打开菜单存档，部分需定点存档
 2. 存档请注意因其都是RM制作，所以会导致游戏存档混一起，小心覆盖
@@ -37,4 +37,4 @@
 *   [菲儿与色情陷阱的迷宫~](https://amemei.github.io/GUARDIANSTRAP/index.html).
 *   [阿尼艾丝的工房](https://amemei.github.io/Anies/index.html).
 
-<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="q9587b80ad9" data-domain="//qoaaa.com" data-affquery="/a12273ded2/9587b80ad9/?placementName=default"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
+
