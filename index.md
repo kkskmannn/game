@@ -37,4 +37,4 @@
 *   [阿尼艾丝的工房](https://amemei.github.io/Anies/index.html).
 
 
-<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="f9ec7480d46" data-domain="//bonepa.com" data-affquery="/2ca0966b04/9ec7480d46/?placementName=default"><script src="//bonepa.com/js/responsive.js" async></script></ins>
+<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="ccc61d1aa72" data-domain="//qoaaa.com" data-affquery="/3a256e7ab0/cc61d1aa72/?placementName=default"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
