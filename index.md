@@ -1,4 +1,5 @@
 *   [返回index](https://arcxingye.github.io/)
+*   [怪浪怪浪的链接]（https://bonepa.com/f2d84885c2/1249d1be3e/?placementName=default）
 * 存档问题：
 1. 通常RPG作可自由操作时两指齐按(右键)打开菜单存档，部分需定点存档
 2. 存档请注意因其都是RM制作，所以会导致游戏存档混一起，小心覆盖
