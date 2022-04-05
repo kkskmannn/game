@@ -37,5 +37,4 @@
 *   [菲儿与色情陷阱的迷宫~](https://amemei.github.io/GUARDIANSTRAP/index.html).
 *   [阿尼艾丝的工房](https://amemei.github.io/Anies/index.html).
 
-
 <ins style="width: 300px;height:250px" data-width="300" data-height="250" class="ccc61d1aa72" data-domain="//qoaaa.com" data-affquery="/3a256e7ab0/cc61d1aa72/?placementName=default"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
