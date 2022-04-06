@@ -38,6 +38,6 @@
 *   [阿尼艾丝的工房](https://amemei.github.io/Anies/index.html).
 
 
-<a href="https://qoaaa.com/1e8f961e43/c19b075cc7/?placementName=default" target="-blank" title="广告"> <img src="logo.jpg">
+<a href="https://qoaaa.com/1e8f961e43/c19b075cc7/?placementName=default" target="-blank" title="广告advertise"> <img src="logo.jpg">
 
 
