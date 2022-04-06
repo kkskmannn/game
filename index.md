@@ -37,6 +37,8 @@
 *   [菲儿与色情陷阱的迷宫~](https://amemei.github.io/GUARDIANSTRAP/index.html).
 *   [阿尼艾丝的工房](https://amemei.github.io/Anies/index.html).
 
+*  ↓ 广告帮忙点一下吧 
+
 
 <a href="https://qoaaa.com/1e8f961e43/c19b075cc7/?placementName=default" target="-blank" title="广告advertise"> <img src="logo.jpg">
 
