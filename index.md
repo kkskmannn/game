@@ -35,7 +35,9 @@
 *   [NPCだけの世界でNPC姦！](https://amemei.github.io/NPC/index.html).
 *   [菲儿与色情陷阱的迷宫~](https://amemei.github.io/GUARDIANSTRAP/index.html).
 *   [阿尼艾丝的工房](https://amemei.github.io/Anies/index.html).
-*   [比基尼铠甲探险队](https://amemei.github.io/BikiniArmor/).手机音频适配暂未完成
+*   [比基尼铠甲探险队](https://amemei.github.io/BikiniArmor/index.html).手机音频适配暂未完成
+*   [露比亚的试炼]（https://amemei.github.io/Rubia/index.html）
+*   [ ]（ ）
 *  ↓ 广告帮忙点一下吧 
 
 
