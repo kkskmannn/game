@@ -38,6 +38,7 @@
 *   [比基尼铠甲探险队](https://amemei.github.io/BikiniArmor/index.html).手机音频适配暂未完成
 *   [露比亚的试炼](https://amemei.github.io/Rubia/index.html).
 *   [绝顶神乐](https://amemei.github.io/Kagura/).
+*   [PrayGame](https://amemei.github.io/PrayGame/).
 *  ↓ 广告帮忙点一下吧 
 
 
