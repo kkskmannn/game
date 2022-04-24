@@ -39,6 +39,7 @@
 *   [露比亚的试炼](https://amemei.github.io/Rubia/index.html).
 *   [绝顶神乐](https://amemei.github.io/Kagura/).
 *   [PrayGame](https://amemei.github.io/PrayGame/).
+*   [永生之物](https://amemei.github.io/Ambrosia/).
 *  ↓ 广告帮忙点一下吧 
 
 
