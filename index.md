@@ -42,6 +42,7 @@
 *   [永生之物](https://amemei.github.io/Ambrosia/).
 *   [被囚禁的蝴蝶不会做梦](https://amemei.github.io/butterfly/).
 *   [囚禁天使~从魔界监牢里逃出](https://amemei.github.io/ImprisonedAngel/).
+*   [神代伊月的选举战](https://amemei.github.io/Electoralwarfare/).
 *  ↓ 广告帮忙点一下吧 
 
 
