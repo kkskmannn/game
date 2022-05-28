@@ -1,4 +1,3 @@
-*   [怪浪怪浪的链接](https://qoaaa.com/1e8f961e43/c2bb69d00f/?placementName=default)
 * 存档问题：
 1. 通常RPG作可自由操作时两指齐按(右键)打开菜单存档，部分需定点存档
 2. 存档请注意因其都是RM制作，所以会导致游戏存档混一起，小心覆盖
@@ -16,8 +15,7 @@
 基本上所有解答都在上面，再问紫砂。还有问题联系B站号[24岁是面壁者](https://space.bilibili.com/383769313/)
 
 # 个人主页
-*   [Github](https://github.com/amemei)
-*   [个人博客](https://amemei.cc/)
+*   [Github](https://github.com/kkskmannn)
 
 # 游戏列表
 后数字为礼包码
@@ -37,15 +35,11 @@
 *   [阿尼艾丝的工房](https://amemei.github.io/Anies/index.html).
 *   [比基尼铠甲探险队](https://amemei.github.io/BikiniArmor/index.html).手机音频适配暂未完成
 *   [露比亚的试炼](https://amemei.github.io/Rubia/index.html).
-*   [绝顶神乐](https://amemei.github.io/Kagura/).
-*   [PrayGame](https://amemei.github.io/PrayGame/).
-*   [永生之物](https://amemei.github.io/Ambrosia/).
-*   [被囚禁的蝴蝶不会做梦](https://amemei.github.io/butterfly/).
-*   [囚禁天使~从魔界监牢里逃出](https://amemei.github.io/ImprisonedAngel/).
-*   [神代伊月的选举战](https://amemei.github.io/Electoralwarfare/).
-*  ↓ 广告帮忙点一下吧 
-
-
-<a href="https://qoaaa.com/1e8f961e43/c19b075cc7/?placementName=default" target="-blank" title="广告advertise"> <img src="logo.jpg">
+*   [绝顶神乐](https://kkskmannn.github.io/Kagura/).
+*   [PrayGame](https://kkskmannn.github.io/PrayGame/).
+*   [永生之物](https://kkskmannn.github.io/Ambrosia/).
+*   [被囚禁的蝴蝶不会做梦](https://kkskmannn.github.io/butterfly/).
+*   [囚禁天使~从魔界监牢里逃出](https://kkskmannn.github.io/ImprisonedAngel/).
+*   [神代伊月的选举战](https://kkskmannn.github.io/Electoralwarfare/).
 
 
