@@ -12,29 +12,29 @@
 2. 因均不强制要求横屏，手机党建议全屏+旋转浏览器再点进去玩
 
 * 其它：
-基本上所有解答都在上面，再问紫砂。还有问题联系B站号[24岁是面壁者](https://space.bilibili.com/383769313/)
+基本上所有解答都在上面，再问紫砂。
 
 # 个人主页
 *   [Github](https://github.com/kkskmannn)
 
 # 游戏列表
 后数字为礼包码
-*   [女仆life](https://amemei.github.io/MaidLife/). 72844631
-*   [芙兰与罪人之岛](https://amemei.github.io/FuranToZaininNoSima/index.html).
-*   [淫魔的陷阱岛](https://amemei.github.io/TrapIsland/index.html). 21503752
-*   [魔法少女苍蓝星](https://amemei.github.io/Cang-LAN-STAR/index.html).
-*   [忧郁的安娜](https://amemei.github.io/melancholianna/index.html).
-*   [索尼娅与催眠都市](https://amemei.github.io/HypnoticCity/index.html). 76312844
-*   [Chris Survival](https://amemei.github.io/ChrisSurvival/index.html).
-*   [兽耳工房~亚妮雅的炼金工房](https://amemei.github.io/AnimalEarWorkshop/index.html). 20190544
-*   [兽耳少女不会背叛](https://amemei.github.io/Beasteargirl/index.html).
-*   [没有魔力的魅魔艾米莉酱](https://amemei.github.io/Emily/index.html). 24497631
-*   [冒险者芙萝拉和世界树之根](https://amemei.github.io/Yggdrasill/index.html). 28449761
-*   [NPCだけの世界でNPC姦！](https://amemei.github.io/NPC/index.html).
-*   [菲儿与色情陷阱的迷宫~](https://amemei.github.io/GUARDIANSTRAP/index.html).
-*   [阿尼艾丝的工房](https://amemei.github.io/Anies/index.html).
-*   [比基尼铠甲探险队](https://amemei.github.io/BikiniArmor/index.html).手机音频适配暂未完成
-*   [露比亚的试炼](https://amemei.github.io/Rubia/index.html).
+*   [女仆life](https://kkskmannn.github.io/MaidLife/). 72844631
+*   [芙兰与罪人之岛](https://kkskmannn.github.io/FuranToZaininNoSima/index.html).
+*   [淫魔的陷阱岛](https://kkskmannn.github.io/TrapIsland/index.html). 21503752
+*   [魔法少女苍蓝星](https://kkskmannn.github.io/Cang-LAN-STAR/index.html).
+*   [忧郁的安娜](https://kkskmannn.github.io/melancholianna/index.html).
+*   [索尼娅与催眠都市](https://kkskmannn.github.io/HypnoticCity/index.html). 76312844
+*   [Chris Survival](https://kkskmannn.github.io/ChrisSurvival/index.html).
+*   [兽耳工房~亚妮雅的炼金工房](https://kkskmannn.github.io/AnimalEarWorkshop/index.html). 20190544
+*   [兽耳少女不会背叛](https://kkskmannn.github.io/Beasteargirl/index.html).
+*   [没有魔力的魅魔艾米莉酱](https://kkskmannn.github.io/Emily/index.html). 24497631
+*   [冒险者芙萝拉和世界树之根](https://kkskmannn.github.io/Yggdrasill/index.html). 28449761
+*   [NPCだけの世界でNPC姦！](https://kkskmannn.github.io/NPC/index.html).
+*   [菲儿与色情陷阱的迷宫~](https://kkskmannn.github.io/GUARDIANSTRAP/index.html).
+*   [阿尼艾丝的工房](https://kkskmannn.github.io/Anies/index.html).
+*   [比基尼铠甲探险队](https://kkskmannn.github.io/BikiniArmor/index.html).手机音频适配暂未完成
+*   [露比亚的试炼](https://kkskmannn.github.io/Rubia/index.html).
 *   [绝顶神乐](https://kkskmannn.github.io/Kagura/).
 *   [PrayGame](https://kkskmannn.github.io/PrayGame/).
 *   [永生之物](https://kkskmannn.github.io/Ambrosia/).
